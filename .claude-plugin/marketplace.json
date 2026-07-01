@@ -4,5 +4,11 @@
     "name": "Michael Pham",
     "email": "x.pham@tricentis.com"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "dept-finance-skills",
+      "source": "./plugins/dept-finance-skills",
+      "description": "Finance team skills"
+    }
+  ]
 }
