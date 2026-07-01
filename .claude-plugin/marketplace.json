@@ -4,5 +4,11 @@
     "name": "Michael Pham",
     "email": "x.pham@tricentis.com"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "dept-comms-skills",
+      "source": "./plugins/dept-comms-skills",
+      "description": "Comms team skills"
+    }
+  ]
 }
