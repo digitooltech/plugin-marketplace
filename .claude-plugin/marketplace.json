@@ -16,8 +16,8 @@
       "description": "New team skills"
     },
     {
-      "name": "big-brain-deps-skills",
-      "source": "./plugins/big-brain-deps-skills",
+      "name": "big-brain-dept-skills",
+      "source": "./plugins/big-brain-dept-skills",
       "description": "Big brain team skills"
     }
   ]
