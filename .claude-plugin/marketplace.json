@@ -6,16 +6,6 @@
   },
   "plugins": [
     {
-      "name": "dept-comms-skills",
-      "source": "./plugins/dept-comms-skills",
-      "description": "Comms team skills"
-    },
-    {
-      "name": "new-dept",
-      "source": "./plugins/new-dept",
-      "description": "New team skills"
-    },
-    {
       "name": "big-brain-dept-skills",
       "source": "./plugins/big-brain-dept-skills",
       "description": "Big brain team skills"
