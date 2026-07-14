@@ -1,0 +1,8 @@
+{
+  "name": "marketing-plugin",
+  "description": "Marketing and sales go-to-market skills: turn a launch idea into a campaign brief, a sales outreach sequence, and a social content pack, with agents that research the audience and review the copy.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Michael Pham"
+  }
+}

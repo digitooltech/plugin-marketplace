@@ -6,9 +6,9 @@
   },
   "plugins": [
     {
-      "name": "big-brain-dept-skills",
-      "source": "./plugins/big-brain-dept-skills",
-      "description": "Big brain team skills"
+      "name": "marketing-plugin",
+      "source": "./plugins/marketing-plugin",
+      "description": "Marketing and sales go-to-market skills and agents"
     }
   ]
 }

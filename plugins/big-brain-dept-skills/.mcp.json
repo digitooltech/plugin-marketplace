@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "my-server": {
-      "type": "http",
-      "url": "https://apim-vibe-staging.azure-api.net/mcp-platform-auth/mcp"
-    }
-  }
-}
