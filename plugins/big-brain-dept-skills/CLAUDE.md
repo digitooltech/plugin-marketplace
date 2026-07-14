@@ -1,17 +1,4 @@
----
-name: skill-router
-description: >
-  Dispatcher for the big-brain department skills. Consult this FIRST, before acting, whenever a
-  request could plausibly match more than one of these skills: a Jira ticket or requirement, an
-  existing set of test cases / steps / Given-When-Then criteria, or a bug report / defect / crash.
-  Use it to decide which single skill should run, resolve overlaps between them, and apply the
-  constraints that hold regardless of which one fires. This skill does not produce a deliverable
-  itself — it selects and hands off to jira-to-test-plan, test-case-to-gherkin, or bug-report-triage.
----
-
-# Skill Router — big-brain-dept-skills
-
-Use this skill to choose which department skill to run when the input could match more than one.
+Use these instructions to choose which department skill to run when the input could match more than one.
 Read the tables, pick exactly one target skill, invoke it, and apply the cross-cutting constraints below to whatever it produces. Do not narrate the routing decision unless the choice is genuinely ambiguous and you need to ask the user.
 
 The skills you route between:
