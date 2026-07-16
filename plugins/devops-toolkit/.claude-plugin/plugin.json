@@ -1,0 +1,8 @@
+{
+  "name": "devops-toolkit",
+  "description": "DevOps helpers: turn an incident into a structured report and a set of raw changes into release notes, with agents that analyze logs and audit config for risky settings.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Michael Pham"
+  }
+}

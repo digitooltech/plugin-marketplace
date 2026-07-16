@@ -4,7 +4,18 @@
     "name": "Michael Pham",
     "email": "x.pham@tricentis.com"
   },
-  "plugins": [],
+  "plugins": [
+    {
+      "name": "devops-toolkit",
+      "source": "./plugins/devops-toolkit",
+      "description": "DevOps helpers: incident reports and release notes, with log-analyzer and config-auditor agents"
+    },
+    {
+      "name": "support-desk",
+      "source": "./plugins/support-desk",
+      "description": "Customer support helpers: ticket triage and reply drafting, with sentiment-analyzer and kb-searcher agents"
+    }
+  ],
   "renames": {
     "marketing-plugin": null
   }

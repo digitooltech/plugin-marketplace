@@ -1,0 +1,8 @@
+{
+  "name": "support-desk",
+  "description": "Customer support helpers: triage an incoming ticket into priority and category, and draft an on-brand reply, with agents that gauge customer sentiment and find the right knowledge-base article.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Michael Pham"
+  }
+}
