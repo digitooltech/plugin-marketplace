@@ -4,11 +4,8 @@
     "name": "Michael Pham",
     "email": "x.pham@tricentis.com"
   },
-  "plugins": [
-    {
-      "name": "marketing-plugin",
-      "source": "./plugins/marketing-plugin",
-      "description": "Marketing and sales go-to-market skills and agents"
-    }
-  ]
+  "plugins": [],
+  "renames": {
+    "marketing-plugin": null
+  }
 }
